@@ -4,7 +4,7 @@ import fetch from 'node-fetch';
 
 let handler = async(m, { conn, text, usedPrefix, command }) => {
 
-if (!text) return m.reply('🍭 Ingrese Un Texto Para Buscar Un Grupo De WhatsApp');
+if (!text) return m.reply('💎 Ingrese Un Texto Para Buscar Un Grupo De WhatsApp');
 
 try {
 let api = `https://api.agungny.my.id/api/searchgroup?q=${text}`;
