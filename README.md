@@ -6,8 +6,8 @@ hola bienvenido a este pequeño proyecto que se está haciendo
 > **`🪩 Versión Actual: 2.5.0`**  
 
 <a
-href="https://github.com/WillZek/CrowBot-ST/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/WillZek/CrowBot-ST?color=yellow&style=flat-square"></a>
-<a href="https://github.com/WillZek/CrowBot-ST/watchers"><img title="espectadores" src="https://img.shields.io/github/watchers/WillZek/CrowBot-ST?label=Espectadores&style=social"></a>
+href="https://github.com/raul-ship-deb/Ziliot/moon-bot-ST/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/raul-ship-deb/Ziliot/moon-bot-ST?color=yellow&style=flat-square"></a>
+<a href="https://github.com/raul-ship-deb/Ziliot/moon-bot-ST/watchers"><img title="espectadores" src="https://img.shields.io/github/watchers/raul-ship-deb/Ziliot/moon-bot-ST?label=Espectadores&style=social"></a>
 
 </p>
 
@@ -33,9 +33,9 @@ ___
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>   
 
-<a href="https://github.com/WillZek/CrowBot-ST"><img src="https://cardivo.vercel.app/api?name=CrowBot&repo=CrowBot-ST&description=Hola+Soy+CrowBot+Disfruta+del+Bot+De+WhatsApp.&image=https://telegra.ph/file/b346b44893d4613a72f98.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=crowbot_wa&whatsapp=50557865603&tiktok=crow_legendario_bs&pattern=leaf&colorPattern=%23eaeaea" /><a>
+<a href="https://github.com/raul-ship-deb/Ziliot/moon-bot-ST"><img src="https://cardivo.vercel.app/api?name=moon-bot&repo=moon-bot-ST&description=Hola+Soy+moo-bot+Disfruta+del+Bot+De+WhatsApp.&image=https://telegra.ph/file/b346b44893d4613a72f98.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=crowbot_wa&whatsapp=50557865603&tiktok=crow_legendario_bs&pattern=leaf&colorPattern=%23eaeaea" /><a>
 
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=85&pause=2000&color=FFD200FF&chrome=true&width=1000&height=200&lines=💛+ WillZek+Lanzó;🍷La+Version+2.5.0;Disfruta+Del+Bot+🎩" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=85&pause=2000&color=FFD200FF&chrome=true&width=1000&height=200&lines=💛+ WillZek+Lanzó;🍷La+Version+2.5.0;Disfruta+Del+Bot+🎩" alt="Typing SVG" /></am>
 
 
 <!-- RAINBOW LINE BOT -->
