@@ -77,7 +77,6 @@ ___
 | **WhatsApp** | 𝐆𝐫𝐮𝐩𝐨 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 | [¡Click aquí!](https://chat.whatsapp.com/B5Zd2TNzVRw6xDdI8rkEY0) |
 | **WhatsApp** | 𝐂𝐨𝐦𝐮𝐧𝐢𝐝𝐚𝐝 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 | [¡Click aquí!](https://chat.whatsapp.com/FM2d39RkKVR9Hv3ga8NRis)|
 | **Dashboard** | 𝐒𝐢𝐭𝐢𝐨𝐖𝐞𝐛 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 | [¡Click Aquí!](https://www.instagram.com/taki_dashi?igsh=dDVhd2IzbGswZ3Aw) |
-| **Terminos** | 𝐓𝐞𝐫𝐦𝐢𝐧𝐨𝐬 𝐃𝐞𝐥𝐚 𝐖𝐞𝐛 | [¡Click Aquí!](https://github.com/WillZek/WillZek/blob/main/TyCW.md) |
 
 </details>
 
@@ -121,7 +120,7 @@ https://wa.me/message/5ZGDAC52VXSNI1
 
 
 <details>
-<summary><b> 📞 Toca Aqui</b></summary>
+<summary><b> 📞 Toca Aqui<+52 962 416 2054>
 
 - **Propietario:** [`Aquí`](https://wa.me/message/5ZGDAC52VXSNI1)
 - **Github:** [`Aqui`](https://github.com/raul-ship-deb/Ziliot/moon-bot-ST/stargazers/"><img title="Stars")
@@ -131,13 +130,13 @@ https://wa.me/message/5ZGDAC52VXSNI1
 </details>
 
 <!-- RAINBOW LINE BOT -->
-<img src="https://github.com/raul-ship-deb/Ziliot/moon-bot-ST/stargazers/"><img title="Stars"
+<https://github.com/raul-ship-deb/Ziliot-
 >
 
 ### **`🖤 TERMUX INFORMACIÓN`**
 
 > [!IMPORTANT]
-> **CrowBot No Recibe Mucho Mantenimiento En Termux**
+> **moon-bot No Recibe Mucho Mantenimiento En Termux**
 
 > [!TIP]
 > **Puedes Utilizar Servidores Para Instalar A CrowBot o Compra Tu [Token](https://crow-bot-dashboard.vercel.app/) En La Pagina Oficial De CrowBot!**
@@ -234,15 +233,15 @@ href="https://dash.hostingpy.shop/"><img src="https://files.catbox.moe/lr92z2.jp
 
 * Dashboard  [`Dash`](https://dash.hostingpy.shop)
 * Panel [`Panel`](https://panel.hostingpy.shop)
-* Canal de WhatsApp [`Canal Hosting`](https://whatsapp.com/channel/0029Vak4e1R4NVifmh8Tvi3q)
-* Comunidad  [`Aquí`](https://chat.whatsapp.com/HT9YFbWTuqO0DQrq6Xxhvx)
-* Contacto(s) [`Soporte`](https://wa.me/595976126756)
+* Canal de WhatsApp [`Canal Hosting`](https://whatsapp.com/channel/0029Vb9xZbNKbYMNSr7BCQ1F)
+* Comunidad  [`Aquí`](https://chat.whatsapp.com/FM2d39RkKVR9Hv3ga8NRis)
+* Contacto(s) [`Soporte`](https://wa.me/message/5ZGDAC52VXSNI1)
 
 > **`Usa Mi Código de Referencia`**:
  LgZKVYOK
 
 <!-- RAINBOW LINE BOT -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<https://github.com/raul-ship-deb/Ziliot->
 
 
 </details>
@@ -255,9 +254,8 @@ href="https://dash.hostingpy.shop/"><img src="https://files.catbox.moe/lr92z2.jp
 
 
 ## **`💛 𝘊𝘙𝘌𝘈𝘋𝘖𝘙`**
-<a
-href="https://github.com/WillZek"><img src="https://github.com/WillZek.png" width="130" height="130" alt="WillZek"/></a>
-
-</details>
+<https://github.com/raul-ship-deb/Ziliot->
+<https://wa.me/message/5ZGDAC52VXSNI1>
+<https://chat.whatsapp.com/B5Zd2TNzVRw6xDdI8rkEY0>
 
 > **[✎ P᥆ᥕᥱrᥱძ ᑲᥡ m᥆᥆ᥒ𝖿᥆rᥴᥱ 𝗍ᥱᥲm ❀](https://whatsapp.com/channel/0029VaxkClI1NCrW4BX5rn3g)**
