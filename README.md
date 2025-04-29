@@ -14,9 +14,14 @@ ___
 
 # **`📩 Donaciones`**
 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/starcoreNinoPina)
-[![Donen Pijes](https://img.shields.io/badge/Donar-E4405F?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/crowclub#pageMessageModal)
-
+Beneficiario: Irma Sorcia Morgado
+CLABE: 722969010324165328
+Institución: Mercado Pago W
+Para transferir dinero desde el portal de tu banco a Mercado Pago:
+1. Selecciona la opción de transferir a una nueva cuenta.
+2. Elige "Mercado Pago W" como institución receptora.
+3. Ingresa el Beneficiario y la CLABE.
+4. Indica el monto que quieres transferir y confirma.
 
 ___
 
