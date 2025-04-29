@@ -72,10 +72,11 @@ ___
 
 | APP | TIPO | ENLACE |
 |------|-------------|-------|
-| **WhatsApp** | 𝐂𝐚𝐧𝐚𝐥 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 | [¡Click aquí!](https://whatsapp.com/channel/0029Vb1AFK6HbFV9kaB3b13W) |
-| **WhatsApp** | 𝐆𝐫𝐮𝐩𝐨 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 | [¡Click aquí!](https://chat.whatsapp.com/B7POPrlJiZf7UWHJKvzVkx) |
-| **WhatsApp** | 𝐂𝐨𝐦𝐮𝐧𝐢𝐝𝐚𝐝 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 | [¡Click aquí!](https://chat.whatsapp.com/B85dNp4WfzsDeDz8OFgvhx) |
-| **Dashboard** | 𝐒𝐢𝐭𝐢𝐨𝐖𝐞𝐛 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 | [¡Click Aquí!](https://crowbot-web.vercel.app/) |
+| **WhatsApp** | 𝐂𝐚𝐧𝐚𝐥 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 | [¡Click aquí!]
+(https://whatsapp.com/channel/0029Vb9xZbNKbYMNSr7BCQ1F)|
+| **WhatsApp** | 𝐆𝐫𝐮𝐩𝐨 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 | [¡Click aquí!](https://chat.whatsapp.com/B5Zd2TNzVRw6xDdI8rkEY0) |
+| **WhatsApp** | 𝐂𝐨𝐦𝐮𝐧𝐢𝐝𝐚𝐝 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 | [¡Click aquí!](https://chat.whatsapp.com/FM2d39RkKVR9Hv3ga8NRis)|
+| **Dashboard** | 𝐒𝐢𝐭𝐢𝐨𝐖𝐞𝐛 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 | [¡Click Aquí!](https://www.instagram.com/taki_dashi?igsh=dDVhd2IzbGswZ3Aw) |
 | **Terminos** | 𝐓𝐞𝐫𝐦𝐢𝐧𝐨𝐬 𝐃𝐞𝐥𝐚 𝐖𝐞𝐛 | [¡Click Aquí!](https://github.com/WillZek/WillZek/blob/main/TyCW.md) |
 
 </details>
@@ -109,27 +110,29 @@ ___
 
 ### **`👑 INFORMACION CONTACTOS`**
 
-#### **`Owner: WillZek 🤴`**
+#### **`Owner: Ziliot 🤴`**
 > **`Developed By: Moon Force`**
 
 #### **`CONTACTOS 💻`**
 <p>
 
-<a
-href="https://wa.me/50557865603?text="><img src="https://files.catbox.moe/44q2o7.jpg" height="125px"></a>
+WHATSAPP 
+https://wa.me/message/5ZGDAC52VXSNI1
+
 
 <details>
 <summary><b> 📞 Toca Aqui</b></summary>
 
-- **Propietario:** [`Aquí`](https:/Wa.me/50557865603)
-- **Github:** [`Aqui`](https://github.com/WillZek)
-- **Instagram:** [`Aqui`](https://www.instagram.com/pina_dzn)
-- **Correo:** [`Aqui`](ninopina10@gmail.com)
+- **Propietario:** [`Aquí`](https://wa.me/message/5ZGDAC52VXSNI1)
+- **Github:** [`Aqui`](https://github.com/raul-ship-deb/Ziliot/moon-bot-ST/stargazers/"><img title="Stars")
+- **Instagram:** [`Aqui`](https://www.instagram.com/taki_dashi?igsh=dDVhd2IzbGswZ3Aw)
+- **Correo:** [`Aqui`](jisussandoval46@gmail.com)
 
 </details>
 
 <!-- RAINBOW LINE BOT -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img src="https://github.com/raul-ship-deb/Ziliot/moon-bot-ST/stargazers/"><img title="Stars"
+>
 
 ### **`🖤 TERMUX INFORMACIÓN`**
 
