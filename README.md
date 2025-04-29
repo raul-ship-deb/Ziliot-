@@ -2,7 +2,7 @@
 
 ![Bienvenida Épica]
 (https://github.com/raul-ship-deb/Ziliot-) 
-
+hola bienvenido a este pequeño proyecto que se está haciendo 
 > **`🪩 Versión Actual: 2.5.0`**  
 
 <a
